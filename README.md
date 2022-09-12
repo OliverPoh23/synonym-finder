@@ -1,7 +1,7 @@
 
-![](https://github.com/israelias/synonym-chaser/blob/master/docs/badges/lighthouse_performance.svg?raw=true?sanitize=true) ![](https://github.com/israelias/synonym-chaser/blob/master/docs/badges/lighthouse_accessibility.svg?raw=true?sanitize=true) ![](https://github.com/israelias/synonym-chaser/blob/master/docs/badges/lighthouse_best-practices.svg?raw=true?sanitize=true)![](https://github.com/israelias/synonym-chaser/blob/master/docs/badges/lighthouse_seo.svg?raw=true?sanitize=true) ![](https://github.com/israelias/synonym-chaser/blob/master/docs/badges/lighthouse_pwa.svg?raw=true?sanitize=true)
+![](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/badges/lighthouse_performance.svg?raw=true?sanitize=true) ![](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/badges/lighthouse_accessibility.svg?raw=true?sanitize=true) ![](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/badges/lighthouse_best-practices.svg?raw=true?sanitize=true)![](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/badges/lighthouse_seo.svg?raw=true?sanitize=true) ![](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/badges/lighthouse_pwa.svg?raw=true?sanitize=true)
 
-![](https://github.com/israelias/synonym-chaser/blob/master/public/og-image-synsearch-app01redblue_Light.png?raw=true)
+![](https://github.com/andrey-bogush/synonym-finder/blob/master/public/og-image-synsearch-app01redblue_Light.png?raw=true)
 
 
 # SynonymSearch
@@ -22,7 +22,7 @@ This project is developed as part of MS2 Interactive Front End module at Code In
 
 Please visit the project here: [synonyms.vercel.app](https://synonyms.vercel.app/)
 
->*Note for reference: Earlier scheme was named 'synonym-chaser'*
+>*Note for reference: Earlier scheme was named 'synonym-finder'*
 
 [TOC levels=3]: # "## Contents"
 
@@ -68,7 +68,7 @@ Please visit the project here: [synonyms.vercel.app](https://synonyms.vercel.app
 
 ### Wireframes
 
-###### [View PDF Set of Schematic Wireframes](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes.pdf)
+###### [View PDF Set of Schematic Wireframes](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes.pdf)
 
 >  ##### *Schematic mockups commenced in early January 2021 to establish relationships between disparate components, and assign appropriate responsibilities.*
 
@@ -79,7 +79,7 @@ Please visit the project here: [synonyms.vercel.app](https://synonyms.vercel.app
 <details><summary>The React App's core functionality can be understood as a <em><b>Products List</b></em> with <em><b>products</b></em> fetched from a <em><b>store</b></em>  and a <em><b>Shopping Cart</b></em> with a list of <em><b>items</b></em> added that  can be removed and/or cleared</summary>
 <br>
 
-[<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes07.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes07.jpg?raw=true)
+[<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes07.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes07.jpg?raw=true)
 
 <br>
 </details>
@@ -89,7 +89,7 @@ Please visit the project here: [synonyms.vercel.app](https://synonyms.vercel.app
 <details><summary>with the ability to query the <em><b>Products List</b></em>     </summary>
 <br>
 
-[<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes14.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes14.jpg?raw=true)
+[<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes14.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes14.jpg?raw=true)
 
 <br>
 </details>
@@ -99,7 +99,7 @@ Please visit the project here: [synonyms.vercel.app](https://synonyms.vercel.app
 <details><summary>with the ability to manage <em><b>products</b></em> that are already in <em><b>items</b></em> and vice versa   </summary>
 <br>
 
-[<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes22.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes22.jpg?raw=true)
+[<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes22.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes22.jpg?raw=true)
 
 <br>
 </details>
@@ -109,7 +109,7 @@ Please visit the project here: [synonyms.vercel.app](https://synonyms.vercel.app
 <details><summary>with the ability to toggle between <em><b>Products List</b></em> and <em><b>Shopping Cart</b></em>   </summary>
 <br>
 
-[<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes25.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes25.jpg?raw=true)
+[<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes25.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes25.jpg?raw=true)
 
 <br>
 </details>
@@ -125,19 +125,19 @@ Please visit the project here: [synonyms.vercel.app](https://synonyms.vercel.app
 <br>
 
 
- [<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes02.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes02.jpg?raw=true)
+ [<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes02.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes02.jpg?raw=true)
   Input(props), Saves(Context), Results(HOC)
 
-[<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes03.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes03.jpg?raw=true)
+[<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes03.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes03.jpg?raw=true)
 Input goes into Results to fetch list of Options from API
 
-  [<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes04.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes04.jpg?raw=true)
+  [<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes04.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes04.jpg?raw=true)
   Selected Option is added to Saves Store
 
-[<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes05.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes05.jpg?raw=true)
+[<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes05.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes05.jpg?raw=true)
 Selected Option is New Input
 
-  [<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes06.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes06.jpg?raw=true)
+  [<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes06.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes06.jpg?raw=true)
 
 <br>
 </details>
@@ -146,15 +146,15 @@ Selected Option is New Input
 <details><summary> Working with the API   </summary>
 <br>
 
-[<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes08.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes08.jpg?raw=true)
+[<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes08.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes08.jpg?raw=true)
 Merriam-Webster Thesaurus API's JSON response
 See sample response [Documentation](https://dictionaryapi.com/products/api-collegiate-thesaurus)
 
 
-[<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes09.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes09.jpg?raw=true)
+[<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes09.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes09.jpg?raw=true)
 Early concerns and considerations involved how to manage and deconstruct or write the schema of a result and which tools might help.
 
-[<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes10.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes09.jpg?raw=true)
+[<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes10.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes09.jpg?raw=true)
 Earlier tests considered using [mw-dict](https://github.com/NdYAG/mw-dict) (Node.js Wrapper for Merriam Webster Developer API) as a helper, but eventually opted out of using this dependency.
 
 <br>
@@ -164,12 +164,12 @@ Earlier tests considered using [mw-dict](https://github.com/NdYAG/mw-dict) (Node
 <details><summary> Results Scope (products)   </summary>
 <br>
 
- [<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes11.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes09.jpg?raw=true)
+ [<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes11.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes09.jpg?raw=true)
 Early schematic breakdown of Results HOC.
 Composed to map, render and pass props down the component tree.
-Props are Merriam-Webster-schema-specific and are generated from every response returned by [searchThesaurus](https://github.com/israelias/synonym-chaser/blob/master/src/services/mwThesaurusService.js) API handler.
+Props are Merriam-Webster-schema-specific and are generated from every response returned by [searchThesaurus](https://github.com/andrey-bogush/synonym-finder/blob/master/src/services/mwThesaurusService.js) API handler.
 Now broken down to  `{Results} => {Root} => {Sense} => {Option}`
-(See [results Directory](https://github.com/israelias/synonym-chaser/blob/master/src/components/results))
+(See [results Directory](https://github.com/andrey-bogush/synonym-finder/blob/master/src/components/results))
 
 <br>
 </details>
@@ -178,10 +178,10 @@ Now broken down to  `{Results} => {Root} => {Sense} => {Option}`
 <details><summary> Selections Scope (cart)   </summary>
 <br>
 
- [<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes12.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes09.jpg?raw=true)
-Early schematic breakdown of Selections component. Represents data from internal Context.Provider (see [HistoryProvider](https://github.com/israelias/synonym-chaser/blob/master/src/context/words.context.js)).
+ [<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes12.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes09.jpg?raw=true)
+Early schematic breakdown of Selections component. Represents data from internal Context.Provider (see [HistoryProvider](https://github.com/andrey-bogush/synonym-finder/blob/master/src/context/words.context.js)).
 Now broken down to  `{Saves} => {Selection}`
-(See [saves Directory](https://github.com/israelias/synonym-chaser/blob/master/src/components/saves))
+(See [saves Directory](https://github.com/andrey-bogush/synonym-finder/blob/master/src/components/saves))
 
 <br>
 </details>
@@ -190,14 +190,14 @@ Now broken down to  `{Saves} => {Selection}`
 <details><summary> Display Scope (product preview)   </summary>
 <br>
 
- [<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes26.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes09.jpg?raw=true)
+ [<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes26.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes09.jpg?raw=true)
 Early schematic breakdown of Display component.
-Represents a manipulated string passed from `{Results} =>{Root} => {Sense}` via `{ReplaceSubStringNode}` (see [string.helper.js](https://github.com/israelias/synonym-chaser/blob/master/src/helpers/string.helper.js)).
+Represents a manipulated string passed from `{Results} =>{Root} => {Sense}` via `{ReplaceSubStringNode}` (see [string.helper.js](https://github.com/andrey-bogush/synonym-finder/blob/master/src/helpers/string.helper.js)).
 Now broken down to  `{Saves} => {Selection}`
-(See [Display](https://github.com/israelias/synonym-chaser/blob/master/src/components/shared/string-display.js))
+(See [Display](https://github.com/andrey-bogush/synonym-finder/blob/master/src/components/shared/string-display.js))
 
-[<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes27.jpg?raw=true" width="600px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes09.jpg?raw=true)
-Display is now a dummy component as [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer#readme) is handled entirely between `{Sense} => {Option}` in Results tree (See [results Directory](https://github.com/israelias/synonym-chaser/blob/master/src/components/results))
+[<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes27.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes09.jpg?raw=true)
+Display is now a dummy component as [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer#readme) is handled entirely between `{Sense} => {Option}` in Results tree (See [results Directory](https://github.com/andrey-bogush/synonym-finder/blob/master/src/components/results))
 
 <br>
 </details>
@@ -212,13 +212,13 @@ Display is now a dummy component as [react-intersection-observer](https://github
    <details><summary> Literal loose leaf  </summary>
     <br>
 
-     [<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes20.jpg?raw=true" width="300px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes01.jpg?raw=true)
+     [<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes20.jpg?raw=true" width="300px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes01.jpg?raw=true)
         Horizontal wordBox cells.
 
      [<div style="text-align:center"><img src="https://www.seekpng.com/png/full/307-3077665_loose-leaf-paper-clipart-clipart-panda-free-clipart.png" width="300px"></div>](https://www.seekpng.com/png/full/307-3077665_loose-leaf-paper-clipart-clipart-panda-free-clipart.png)
      Loose leaf: A piece of paper that is not bound in place, or available on a continuoues roll, but typically punched so as to be organized in a ring binder.
 
-     [<div style="text-align:center"><img src="https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes01.jpg?raw=true" width="300px"></div>](https://github.com/israelias/synonym-chaser/blob/master/docs/wireframes/MS2_Wireframes01.jpg?raw=true)
+     [<div style="text-align:center"><img src="https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes01.jpg?raw=true" width="300px"></div>](https://github.com/andrey-bogush/synonym-finder/blob/master/docs/wireframes/MS2_Wireframes01.jpg?raw=true)
         Sample Page.
 
     <br>
@@ -385,7 +385,7 @@ Display is now a dummy component as [react-intersection-observer](https://github
 ## Notes
 
 - Styles are written in [jss](https://cssinjs.org/jss-syntax/?v=v10.5.1) syntax and follow the spec for [Material-UI](https://material-ui.com/styles/advanced/#theming) to play nicely with [Nextjs](https://nextjs.org/docs/getting-started) Server-side rendering, which includes [this logic](https://github.com/mui-org/material-ui/blob/master/examples/nextjs/pages/_document.js) of customizing `pages/_document`  to to inject server-side rendered styles into the markup right before it's used. Note that this is an unofficial recommendation, and should be refactored if/when MUI releases an official plugin for Nextjs similar to the one for [MUI/Gatsby](https://github.com/hupe1980/gatsby-plugin-material-ui).
-- All style objects are created with MUI's `makeStyles` hook and follow guidelines in [MUI style Docs](https://material-ui.com/styles/advanced/#makestyles) for theming. This includes CSS overrides and media queries. Style objects for main components are separated by scope in the [styles Directory](https://github.com/israelias/synonym-chaser/blob/master/src/styles/) and imported in modules as required. However, some components, namely, `Launcher`, have all style props declared in the component file itself. Note that all styles should eventually be exported from one directory for consistency.
+- All style objects are created with MUI's `makeStyles` hook and follow guidelines in [MUI style Docs](https://material-ui.com/styles/advanced/#makestyles) for theming. This includes CSS overrides and media queries. Style objects for main components are separated by scope in the [styles Directory](https://github.com/andrey-bogush/synonym-finder/blob/master/src/styles/) and imported in modules as required. However, some components, namely, `Launcher`, have all style props declared in the component file itself. Note that all styles should eventually be exported from one directory for consistency.
 - The `results` tree renders `jsx` components on every API call without initializing constants. Props and conditional expressions control the iteration of the response schema from MW-Thesaurus API. Note that values and Prop-Type verifications are specifically written to get the right data from this schema:
     <details><summary> Mapping conditionals down the tree </summary>
     <br>
@@ -405,8 +405,8 @@ Display is now a dummy component as [react-intersection-observer](https://github
     <br>
     </details>
 - Each saved word instance retains properties of the Results family it is "taken" from -- such as the word's particular definition, label, root word -- to increment values of duplicates and group words by sense definitions while ensuring each instance, no matter identical at name value, is distinct if the definition and sense is different
-- React hooks `useReducer`, `useContext`, `createContext` are assembled together in `context/words.context` ([see HistoryProvider](https://github.com/israelias/synonym-chaser/blob/master/src/context/words.context.js)) to provide a context wrapper for components to share and consume the same data. Note that this logic is directly modeled from the example set in [next.js/examples/with-context-api](https://github.com/vercel/next.js/tree/canary/examples/with-context-api).
-- Following what is achieved by `HistoryProvider`'s exported context wrapper hooks `useHistory` and `useDispatchHstory` -- which are utilized across higher-order components, shared components and helper functions in `helpers/*` to radically manipulate the DOM -- the same logic is repurposed to ride multiple hooks along a custom wrapper with MUI's ThemeProvider the ([see ThemeProvider](https://github.com/israelias/synonym-chaser/blob/master/src/context/theme.context.js)). In this case, setting the the view value, allows any component to change the page from anywhere, to name a few. Note that the catch-all nature of this Context layout provider.
+- React hooks `useReducer`, `useContext`, `createContext` are assembled together in `context/words.context` ([see HistoryProvider](https://github.com/andrey-bogush/synonym-finder/blob/master/src/context/words.context.js)) to provide a context wrapper for components to share and consume the same data. Note that this logic is directly modeled from the example set in [next.js/examples/with-context-api](https://github.com/vercel/next.js/tree/canary/examples/with-context-api).
+- Following what is achieved by `HistoryProvider`'s exported context wrapper hooks `useHistory` and `useDispatchHstory` -- which are utilized across higher-order components, shared components and helper functions in `helpers/*` to radically manipulate the DOM -- the same logic is repurposed to ride multiple hooks along a custom wrapper with MUI's ThemeProvider the ([see ThemeProvider](https://github.com/andrey-bogush/synonym-finder/blob/master/src/context/theme.context.js)). In this case, setting the the view value, allows any component to change the page from anywhere, to name a few. Note that the catch-all nature of this Context layout provider.
     <details><summary> All layout states in a Context Theme </summary>
     <br>
 
@@ -930,7 +930,7 @@ Display is now a dummy component as [react-intersection-observer](https://github
     - A stateless component, used by `Sense` to pass a `sampleString` and `optionWord` prop, which activates an `Intersection Observer` and mouse events to dynamically change the `optionWord` prop.
     - Helper functions are used for this component to return a clean string from the JSON response, whose original string is wrapped in `{it} {/it}` and `{lquo} {rquo}` nodes. As they are open and close tags, regex replace functions prove reliable in consistently cleaning the example string when a definition happens to have it. (See [example response from Theaurus API](https://dictionaryapi.com/products/api-collegiate-thesaurus))
     - Requires:
-    - See [Sense](https://github.com/israelias/synonym-chaser/blob/master/src/components/results/sense.js), [Display](https://github.com/israelias/synonym-chaser/blob/master/src/components/shared/string-display.js), [ReplaceSubStringNode](https://github.com/israelias/synonym-chaser/blob/master/src/helpers/string.helper.js)
+    - See [Sense](https://github.com/andrey-bogush/synonym-finder/blob/master/src/components/results/sense.js), [Display](https://github.com/andrey-bogush/synonym-finder/blob/master/src/components/shared/string-display.js), [ReplaceSubStringNode](https://github.com/andrey-bogush/synonym-finder/blob/master/src/helpers/string.helper.js)
     - Review:
     - A user is able to see all words used in their respective contextual sentences.
     - A user is able to update the sentence by scrolling (mobile) and/or hovering a word (mouse/desktop).
@@ -948,7 +948,7 @@ Display is now a dummy component as [react-intersection-observer](https://github
     - Return the length of the array of Word objects sharing the same sense definition.
     - Return arrays of objects grouped by shared sense definition(s).
     - Requires:
-    - See type functions in [Counters](https://github.com/israelias/synonym-chaser/blob/master/src/helpers/counters.helper.js), [HistoryProvider](https://github.com/israelias/synonym-chaser/blob/master/src/context/words.context.js)
+    - See type functions in [Counters](https://github.com/andrey-bogush/synonym-finder/blob/master/src/helpers/counters.helper.js), [HistoryProvider](https://github.com/andrey-bogush/synonym-finder/blob/master/src/context/words.context.js)
     - Review:
     - A user is able to see a badge with a count next to a word that is already saved in session. 
     - Additionally, the same functions are used in `Saves` view so a user can view the 'repeats' a.k.a. a user's saved words by the property definitions they share.
@@ -1036,7 +1036,7 @@ Display is now a dummy component as [react-intersection-observer](https://github
 ### Code Testing
 #### Lighthouse
 ##### Performance, Accessibility, Best Practices, SEO, PWA
-[View Latest Results](https://lighthouse.vercel-lighthouse-integration.now.sh/reports/synonym-chaser-nomfze9v6.vercel.app)
+[View Latest Results](https://lighthouse.vercel-lighthouse-integration.now.sh/reports/synonym-finder-nomfze9v6.vercel.app)
 - Lighthouse via Vercel is used to test performace, which produces unique results on every `git push`. [lighthouse-badges](https://github.com/emazzotta/lighthouse-badges) is used to generate new badges for every deployment by installing ```npm i -g lighthouse-badges``` and pushing the new hashed url to the array of urls:
 
     ```
@@ -1078,7 +1078,7 @@ ___
 - `commit` and `push` the code from my local IDE to Github via Git and my MacBook Pro's iTerm terminal.
 - Log in to Vercel and click the [New Project](https://vercel.com/new) CTA.
 - Access "Import Git Repository" via the `select` input, located at the top-left of the immediate prompt.
-- Click "Import" on the repository named "synonym-chaser"
+- Click "Import" on the repository named "synonym-finder"
 - Select the default "Personal Account" along with the default "master" root directory.
 - Click "Deploy"
 - Barring errors, await the prompt for:
@@ -1090,13 +1090,13 @@ ___
 
 - Clone this repo by running: 
 ```bash
-git clone https://github.com/israelias/synonym-chaser
+git clone https://github.com/andrey-bogush/synonym-finder
 ```
 
 - at the jump, `cd` to the name of this repo:
 
 ```bash
-cd synonym-chaser
+cd synonym-finder
 ```
 
 - install the package and deps:
