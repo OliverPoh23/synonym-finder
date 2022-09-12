@@ -18,7 +18,7 @@
     "html-react-parser": "^1.2.4",
     "lodash.throttle": "^4.1.1",
     "next": "^10.0.6",
-    "prop-types": "^15.7.2",
+    "prop-types": "^15.8.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-intersection-observer": "^8.31.0"
